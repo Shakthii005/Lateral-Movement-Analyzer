@@ -77,7 +77,7 @@ Mitigation Recommendations
 
 ## 📦 Installation
 
-git clone https://github.com/your-username/lateral-movement-analyzer.git  
+git clone https://github.com/Shakthii005/lateral-movement-analyzer.git  
 cd lateral-movement-analyzer  
 pip install networkx matplotlib  
 
